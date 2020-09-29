@@ -76,7 +76,7 @@ To configure auto attendants and call queues, you need the following:
 
 Before you set up your auto attendants and call queues, there are some decisions that you should make about how to use these features in your business. These decisions will determine the settings that you choose when you configure your auto attendants and call queues.
 
-Document your answers to these questions and provide the information the the administrator doing the configuration.
+Document your answers to these questions and provide the information the administrator doing the configuration.
 
 - What languages do you need? Where are these languages needed - which department or group?
 - Do you want to allow voice inputs from callers or only dialing inputs?
